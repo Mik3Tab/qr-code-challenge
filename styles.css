@@ -22,6 +22,9 @@ body {
     height: 25rem;
     background-color: white;
     border-radius: 1rem;
+    -webkit-box-shadow: 1rem 1rem 1rem -1rem rgba(128,128,128,0.48);
+    -moz-box-shadow: 1rem 1rem 1rem -1rem rgba(128,128,128,0.48);
+    box-shadow: 1rem 1rem 1rem -1rem rgba(128,128,128,0.48);
 }
 
 .qr-container-code {
